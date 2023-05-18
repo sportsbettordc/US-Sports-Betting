@@ -7,4 +7,4 @@ Best sports betting resources in the US.
 
 [Virginia Sports Betting](https://washingtoncitypaper.com/sports-betting/virginia-sports-betting/)
 
-<a href="https://washingtoncitypaper.com/sports-betting" data-rt-link-type="external" rel="dofollow" =show>  
+<a href="https://washingtoncitypaper.com/sports-betting" data-rt-link-type="external" rel="dofollow">  
