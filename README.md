@@ -1,7 +1,7 @@
 # US-Sports-Betting
 Best sports betting resources in the US.
 
-"rel=follow" [DC Sports Betting] "rel=follow" (https://washingtoncitypaper.com/sports-betting/dc-sports-betting/) "rel=follow"
+"rel=follow" [DC Sports Betting](https://washingtoncitypaper.com/sports-betting/dc-sports-betting/) "rel=follow"
 
 [Maryland Sports Betting](https://washingtoncitypaper.com/sports-betting/maryland-sports-betting/)
 
